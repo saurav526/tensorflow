@@ -1,3 +1,5 @@
+# this script simulates an A/B test, performs statistical analysis, and visualizes the results.
+# while each section is commented for clarity, the script is designed to be run as a whole to generate a complete A/B testing report.
 import os
 import numpy as np
 import pandas as pd
